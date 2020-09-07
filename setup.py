@@ -1,0 +1,9 @@
+setup(
+    dependency_links=[
+        "https://github.com/OSGeo/GDAL.git",
+        "https://github.com/Toblerity/Fiona.git",
+        "https://github.com/Toblerity/Shapely.git",
+        "https://github.com/pyproj4/pyproj.git",
+        "https://github.com/Toblerity/Rtree.git"
+    ]
+)
